@@ -96,7 +96,7 @@ print(age)                                  # 22
 print(type(age))                            # str
 
 # Type caste
-age = int(input("@hat is your age? "))
+age = int(input("What is your age? "))
 print(age)                                  # 22
 print(type(age))                            # int 
 
