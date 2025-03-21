@@ -17,7 +17,7 @@ elif operation == "/":
     if num2 != 0:
         result = num1 / num2
     else:
-        result = "Error! Division by zero"
+        result = "Error! Division by zero is not possible."
 else:
     result = "Invalid operation."
 
