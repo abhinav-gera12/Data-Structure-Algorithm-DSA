@@ -174,3 +174,11 @@ print(lengths)
 a = [[1, 2, 3], ["a", "b", "c"], [2.14, 3.17], "Abhinav"]
 for i in a:
     print(i)
+
+
+# CONCLUSION
+'''
+- Conclusion -> List comprehension are a powerful and concise way to create lists in python. They are syntatically compact and can replace
+                more verbose looping constructs. Understanding the syntax of list comprehension will help you write cleaner and more
+                efficient python code.
+'''
