@@ -104,3 +104,11 @@ print("nested loops (i) - ")
 for i in range(5):
     for j in range(3):
         print(f'i = {i} and j = {j}')
+
+
+# CONCLUSION
+'''
+- Conclusion -> Loops are powerful constructs in Python that allow you to execute a block of code multiple times. By understanding,
+                and using for loop and while loops, along with loop control statements like break, continue and pass; you can handle
+                a wide range of programming tasks efficiently.
+'''
