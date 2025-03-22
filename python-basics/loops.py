@@ -51,3 +51,56 @@ count = 0
 while count < 5:
     print(count)
     count = count + 1
+
+print("while loop - (ii)")
+count = 0
+while count <= 20:
+    if count%2 == 0:
+        print(count)
+        count = count + 1
+    else:
+        count = count + 1
+
+
+# LOOP CONTROL STATEMENTS
+# BREAK
+'''
+- break -> The break statements exists the loop prematurely 
+'''
+print("break statement - ")
+for i in range(0,10):
+    if i == 5:
+        break
+    print(i)
+
+# CONTINUE
+'''
+- continue -> The continue statement skips the current iteration and continues with the next
+'''
+print("continue statement - ")
+for i in range(0, 10):
+    if i % 2 == 0:
+        continue
+    print(i)
+
+# PASS
+'''
+- pass -> The pass statement is a null statement and it does nothing.
+'''
+print('pass statement - ')
+for i in range(5):
+    if i == 2:
+        print(f"the number is {i}")
+        pass
+    else:
+        print(i)
+
+
+# NESTED LOOOPS:
+'''
+- Nested Loops -> It means inside a loop, we are defining another loop which will specifically iterate more elements in the loop.
+'''
+print("nested loops (i) - ")
+for i in range(5):
+    for j in range(3):
+        print(f'i = {i} and j = {j}')
