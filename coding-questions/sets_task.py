@@ -7,7 +7,7 @@ lst = list(set(lst))  # Converting the list to a set removes duplicates, then co
 print("List after removing duplicates:", lst)  # Output will be [1, 2, 3, 4, 5]
 
 '''
-# COUNTING THE UNIQUE WORDS IN A TEXT
+(Q)- COUNTING THE UNIQUE WORDS IN A TEXT
 # The task is to count how many unique words are there in the given text.
 '''
 
