@@ -1,0 +1,19 @@
+PSEUDO-CODE
+
+- A Pseudocode is a simple way of describing an algorithm in plain language or a mix of code like and natural language instructions.
+- It doesn't follow any specific programming language syntax, making it easier to understand, even for those without programming
+    knowledge. 
+- Pseudocode is often used as a step before writing actual code.
+
+
+-(Q): Pseudo code to find the sum of 2 integers
+'''
+Begin
+    INPUT first_number
+    INPUT second_number
+
+    SUM = first_number + second_number
+
+    print(SUM)
+END
+'''

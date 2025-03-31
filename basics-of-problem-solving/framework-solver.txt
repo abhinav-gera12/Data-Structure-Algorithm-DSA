@@ -1,0 +1,10 @@
+Process to solve a problem
+
+i-      Analyze your problem -> input + output, constraints(data types)
+ii-     Break down problem into smaller subparts
+iii-    Remember/enlist the concepts
+iv-     Take 2 or 3 examples before proceeding to clear out the confusion gap (don't assume)
+v-      Write a Pseudo code on a paper
+vi-     Dry run it once
+vii-    Write down your solution.
+viii-   Look out for the edge cases or boundary condition

@@ -1,0 +1,5 @@
+FLOWCHART:
+
+A flowchart is a graphical representation of a process, system or algorithm.
+It uses symbols and arrows to show the sequence of steps needed to complete the task.
+Flowcharts are useful in visualising how to solve a problem and make the process easier to flowchart.
